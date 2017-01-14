@@ -1,0 +1,47 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS IDD_DIALOG1
+{
+  IDS_BUTTON    "Import";
+  IDS_BUTTON3   "Import";
+  IDS_CHECK     "Mesh";
+  IDS_CHECK1    "Bones";
+  IDS_CHECK11   "Bones";
+  IDS_CHECK12   "Moprhs";
+  IDS_CHECK13   "Camera";
+  IDS_CHECK15   "Layers";
+  IDS_CHECK16   "Folder";
+  IDS_CHECK17   "IK Dynamics";
+  IDS_CHECK2    "IK";
+  IDS_CHECK3    "Materials";
+  IDS_CHECK4    "Morphs";
+  IDS_CHECK5    "Weight";
+  IDS_CHECK7    "English";
+  IDS_CHECK9    "Constraint";
+  IDS_DIALOG    "MMD Tool 3.1";
+  IDS_STATIC1   "Group";
+  IDS_STATIC11  "Motion";
+  IDS_STATIC14  "Model";
+  IDS_STATIC15  "Camera & Lights";
+  IDS_STATIC16  "Group";
+  IDS_STATIC17  "Frame Start : ";
+  IDS_STATIC18  "Group";
+  IDS_STATIC19  "Material";
+  IDS_STATIC2   "Model";
+  IDS_STATIC20  "Group";
+  IDS_STATIC21  "Diffuse C :";
+  IDS_STATIC22  "Diffuse T :";
+  IDS_STATIC23  "Group";
+  IDS_STATIC24  "Specular C :";
+  IDS_STATIC25  "Specular T :";
+  IDS_STATIC29  "Group";
+  IDS_STATIC3   "Group";
+  IDS_STATIC30  "luminance C :";
+  IDS_STATIC31  "luminance T :";
+  IDS_STATIC32  "Group";
+  IDS_STATIC34  "Alpha T :";
+  IDS_STATIC5   "Group";
+  IDS_STATIC6   "Size :";
+  IDS_STATIC7   "Group";
+  IDS_STATIC8   "         - MMD Tool 3.2  -";
+}
